@@ -11,20 +11,21 @@ Website: https://carwiz.netlify.app
 
 ## CarWiz Website
 
-![image](https://user-images.githubusercontent.com/74976948/170836652-bf6d10d2-c3e1-4a7f-9613-6df4a72f086f.png)
+![image](https://user-images.githubusercontent.com/74976948/170839223-e57c4b7b-4c99-40cd-beff-f970c67d6061.png)
 
-![image](https://user-images.githubusercontent.com/74976948/170836660-c5ad29aa-3e94-48a4-bdba-33893839ed4f.png)
+![image](https://user-images.githubusercontent.com/74976948/170839229-79dd336d-b018-4968-b1ac-17fd52dd58d6.png)
 
-![image](https://user-images.githubusercontent.com/74976948/170836670-55412e3b-c08a-4fec-9195-6d52adfb12de.png)
+![image](https://user-images.githubusercontent.com/74976948/170839231-bc3f84a0-afbd-4c39-97ec-08b4fce80155.png)
 
-![image](https://user-images.githubusercontent.com/74976948/170836675-3bfe7540-26cc-4360-9bf5-e9d4ea0dc155.png)
+![image](https://user-images.githubusercontent.com/74976948/170839233-e3d45d67-4652-4e44-8516-0bb8482b713d.png)
 
-![image](https://user-images.githubusercontent.com/74976948/170836681-cbe900c9-400f-4a32-bb45-0ce77febf036.png)
+![image](https://user-images.githubusercontent.com/74976948/170839237-651e4cfa-8c8d-4bd0-9dac-2d5876a9315d.png)
 
-![image](https://user-images.githubusercontent.com/74976948/170836713-1ee8ff5f-f0de-45f8-8c69-6cd2e7774c2a.png)
+![image](https://user-images.githubusercontent.com/74976948/170839240-b0b22264-3041-4a93-9313-997c498346c7.png)
 
-![image](https://user-images.githubusercontent.com/74976948/170836722-6603347a-70e7-4070-b0f5-1af33d1a6a1e.png)
+![image](https://user-images.githubusercontent.com/74976948/170839250-ea6382cc-48aa-4240-9286-1a8c83306a0b.png)
 
+![image](https://user-images.githubusercontent.com/74976948/170839251-27bb7c03-82f8-4391-8598-b2b79ec59c31.png)
 
 
 ## Project Idea and Working
