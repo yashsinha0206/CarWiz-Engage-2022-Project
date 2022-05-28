@@ -97,7 +97,7 @@ Netlify is a platform for building and deploying/hosting websites.
 
 After completing the frontend part on my system and integrating it with the backend, I hosted the website using Netlify. 
 
-My website (Carwiz): carwiz.netlify.app
+My website (Carwiz): https://carwiz.netlify.app
 
 
 
