@@ -9,9 +9,29 @@ Backend: https://github.com/yashsinha0206/Enagage-Carviz-backend.git
 
 Website: carwiz.netlify.app
 
+## CarWiz Website
+
+![image](https://user-images.githubusercontent.com/74976948/170836652-bf6d10d2-c3e1-4a7f-9613-6df4a72f086f.png)
+
+![image](https://user-images.githubusercontent.com/74976948/170836660-c5ad29aa-3e94-48a4-bdba-33893839ed4f.png)
+
+![image](https://user-images.githubusercontent.com/74976948/170836670-55412e3b-c08a-4fec-9195-6d52adfb12de.png)
+
+![image](https://user-images.githubusercontent.com/74976948/170836675-3bfe7540-26cc-4360-9bf5-e9d4ea0dc155.png)
+
+![image](https://user-images.githubusercontent.com/74976948/170836681-cbe900c9-400f-4a32-bb45-0ce77febf036.png)
+
+![image](https://user-images.githubusercontent.com/74976948/170836713-1ee8ff5f-f0de-45f8-8c69-6cd2e7774c2a.png)
+
+![image](https://user-images.githubusercontent.com/74976948/170836722-6603347a-70e7-4070-b0f5-1af33d1a6a1e.png)
+
+
+
 ## Project Idea and Working
 
 Using data analytics to help customers as well as the industry to take informed decisions.
+
+
 
 ### Backend:-
 
@@ -54,6 +74,7 @@ iii. Avg price vs power
 4. Heroku
 
 After managing the database and successfully developing the APIs, I used Heroku to deploy the backend and manage the database (using this cloud platform).
+
 
 
 ### Frontend:-
