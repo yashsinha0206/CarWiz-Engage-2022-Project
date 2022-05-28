@@ -10,6 +10,7 @@ Backend: https://github.com/yashsinha0206/Enagage-Carviz-backend.git
 Website: https://carwiz.netlify.app
 
 
+
 ### Points to Remember while running the files on your system:
  
 **1. Set up MongoDB Compass and Postman on your system.**
@@ -37,6 +38,8 @@ npm start
 **7. During using the application, when searching for "Company Name" (under Company Details), do remember that the Company name is case sensetive as per the database used in the backend. So, write the Company Name same as given in the dataset.**
 
 
+
+
 ## CarWiz Website
 
 ![image](https://user-images.githubusercontent.com/74976948/170839223-e57c4b7b-4c99-40cd-beff-f970c67d6061.png)
@@ -52,13 +55,15 @@ npm start
 ![image](https://user-images.githubusercontent.com/74976948/170839250-ea6382cc-48aa-4240-9286-1a8c83306a0b.png)
 
 
+
+
 ## Project Idea and Working
 
 Using data analytics to help customers as well as the industry to take informed decisions.
 
 
 
-### Backend:-
+## Backend:-
 
 https://github.com/yashsinha0206/Enagage-Carviz-backend.git
 
@@ -75,7 +80,7 @@ The APIs developed were used to query data according to several specifications o
 
 I used the MongoDB Compass desktop application to go through the data stored in my MongoDB database. 
 
-The database was created on the basis of the dataset provided by the Data Analysis Engage challenge and after data cleaning.
+**The database was created on the basis of the dataset provided by the Data Analysis Engage challenge and after data cleaning.**
 
 
 3. Postman
@@ -85,7 +90,7 @@ I used Postman for API building and testing.
 Postman Documentation: https://documenter.getpostman.com/view/21119224/UyxqC3wT
 
 
-The APIs developed will be used to compare several specifications of cars and perform data visualization (demand of the problem statement).
+**The APIs developed will be used to compare several specifications of cars and perform data visualization (demand of the problem statement).**
 
 Few of the API examples: 
 
@@ -102,7 +107,8 @@ After managing the database and successfully developing the APIs, I used Heroku 
 
 
 
-### Frontend:-
+
+## Frontend:-
 
 https://github.com/yashsinha0206/Engage-Carwiz-frontend
 
