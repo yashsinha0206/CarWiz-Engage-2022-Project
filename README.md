@@ -14,13 +14,13 @@ Website: https://carwiz.netlify.app
  
 **1. Set up MongoDB Compass and Postman on your system.**
 
-**2. After setting up MongoDB Compass on your local sysytem, create a deatabase "engage" and collection "cars".
+**2. After setting up MongoDB Compass on your local sysytem, create a deatabase "engage" and collection "cars".**
 
-**3. Now, in the backend, in "services" folder go to "db.connection.js" file, go on line -
+**3. Now, in the backend, in "services" folder go to "db.connection.js" file, go on line -**
 
 var inst1 = mongoose.createConnection(`paste the link of your MongoDB database`)
 
-**4. Execute the backend file before the frontend file.
+**4. Execute the backend file before the frontend file.**
 
 **5. Before running/executing the backend file in your ide, open terminal and write:**
 
@@ -34,7 +34,7 @@ npm install
 
 npm start
 
-**7. During using the application, when searching for "Company Name" (under Company Details), do remember that the Company name is case sensetive as per the database used in the backend. So, write the Company Name same as given in the dataset.
+**7. During using the application, when searching for "Company Name" (under Company Details), do remember that the Company name is case sensetive as per the database used in the backend. So, write the Company Name same as given in the dataset.**
 
 
 ## CarWiz Website
