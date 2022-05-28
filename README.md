@@ -7,7 +7,7 @@ Frontend: https://github.com/yashsinha0206/Engage-Carwiz-frontend
 
 Backend: https://github.com/yashsinha0206/Enagage-Carviz-backend.git
 
-Website: carwiz.netlify.app
+Website: https://carwiz.netlify.app
 
 ## CarWiz Website
 
