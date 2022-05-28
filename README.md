@@ -21,11 +21,7 @@ Website: https://carwiz.netlify.app
 
 ![image](https://user-images.githubusercontent.com/74976948/170839237-651e4cfa-8c8d-4bd0-9dac-2d5876a9315d.png)
 
-![image](https://user-images.githubusercontent.com/74976948/170839240-b0b22264-3041-4a93-9313-997c498346c7.png)
-
 ![image](https://user-images.githubusercontent.com/74976948/170839250-ea6382cc-48aa-4240-9286-1a8c83306a0b.png)
-
-![image](https://user-images.githubusercontent.com/74976948/170839251-27bb7c03-82f8-4391-8598-b2b79ec59c31.png)
 
 
 ## Project Idea and Working
